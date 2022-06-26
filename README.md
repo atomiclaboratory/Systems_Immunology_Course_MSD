@@ -1,5 +1,8 @@
 # Systems Immunology: an intro to multi-omics data integration and machine learning course
 
+## Date
+March 28/29th 2022
+
 ## Instructor
 
 Adriana Tomic, PhD  
